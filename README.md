@@ -1,7 +1,7 @@
 RPA 엔지니어 프로필
 개인 정보
 
-이름: 김효
+이름: 김효진
 연락처: hyojin23g@gmail.com
 LinkedIn/GitHub: [본인의 LinkedIn/GitHub 프로필]
 
